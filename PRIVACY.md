@@ -1,11 +1,11 @@
-# Privacy Policy  
-## 隐私政策
+# Privacy Policy
+## 隐私声明
 
 Last updated: 2026-04-27
 
 This Privacy Policy explains how **Global AI Token Counter** handles user data.
 
-本隐私政策说明 **Global AI Token Counter / 全球 AI Token 计数器** 如何处理用户数据。
+本隐私声明说明 **Global AI Token Counter / 全球 AI Token 计数器** 如何处理用户数据。
 
 ---
 
@@ -71,6 +71,10 @@ For local statistics, the text is processed in the browser.
 However, if the user clicks the AI analysis button, part of the input text may be sent to a public third-party AI service to generate a short analysis report.
 
 但是，如果用户点击 AI 分析按钮，部分输入文本可能会被发送到公共第三方 AI 服务，用于生成简短分析报告。
+
+In the current implementation, the AI analysis feature may send a shortened version of the input text to a public AI endpoint.
+
+在当前实现中，AI 分析功能可能会将输入文本的截取内容发送到公共 AI 接口。
 
 ---
 
@@ -140,9 +144,9 @@ Please do not submit:
 
 ## 6. Local Storage / 本地存储
 
-This project may use browser `localStorage` to save user preferences.
+This project may use browser localStorage to save user preferences.
 
-本项目可能会使用浏览器 `localStorage` 保存用户偏好设置。
+本项目可能会使用浏览器 localStorage 保存用户偏好设置。
 
 Currently, this may include:
 
@@ -262,7 +266,7 @@ The project itself does not knowingly collect personal information from children
 
 This Privacy Policy may be updated from time to time.
 
-本隐私政策可能会不定期更新。
+本隐私声明可能会不定期更新。
 
 If the project adds new features that affect privacy, this document should be updated accordingly.
 
@@ -282,7 +286,7 @@ If users have privacy-related questions, they can open an issue in this reposito
 
 This Privacy Policy is provided for transparency and general information.
 
-本隐私政策用于提高透明度并提供一般说明。
+本隐私声明用于提高透明度并提供一般说明。
 
 It is not legal advice.
 
