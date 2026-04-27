@@ -116,3 +116,23 @@ You can deploy this project directly with **GitHub Pages**.
 
 ```text
 index.html
+
+---
+
+## Privacy Notice / 隐私声明
+
+This project includes a dedicated privacy policy file.
+
+本项目已提供单独的隐私声明文件。
+
+Please read the [Privacy Policy](./PRIVACY.md) before using or deploying this project.
+
+在使用或部署本项目之前，请阅读 [隐私声明](./PRIVACY.md)。
+
+The privacy policy explains how this project handles local processing, third-party requests, AI text analysis, browser local storage, and GitHub Pages hosting.
+
+该隐私声明说明了本项目如何处理本地计算、第三方请求、AI 文本分析、浏览器本地存储以及 GitHub Pages 托管相关内容。
+
+Users should avoid submitting passwords, API keys, identity information, private conversations, business secrets, unpublished code, or other sensitive content to public AI analysis features.
+
+用户应避免向公共 AI 分析功能提交密码、API Key、身份信息、私人聊天记录、商业机密、未公开代码或其他敏感内容。
